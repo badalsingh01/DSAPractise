@@ -8,7 +8,7 @@ int main() {
 	cin >> ch1;
 
 	cout << "ch1 = " << ch1 << endl;
-	
+
 	char ch2;
 	ch2 = 'B'; // assign.
 	cout << "ch2 = " << ch2 << endl;
@@ -34,4 +34,3 @@ int main() {
 
 	return 0;
 }
-// Ascii Values of 0 = 48 and so on 
