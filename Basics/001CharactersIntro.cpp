@@ -8,7 +8,7 @@ int main() {
 	cin >> ch1;
 
 	cout << "ch1 = " << ch1 << endl;
-
+	
 	char ch2;
 	ch2 = 'B'; // assign.
 	cout << "ch2 = " << ch2 << endl;
