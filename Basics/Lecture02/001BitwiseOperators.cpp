@@ -9,8 +9,8 @@ int main() {
 	cout << "a|b : " << (a | b) << endl;
 	cout << "a^b : " << (a ^ b) << endl;
 	cout << "~a : " << (~a) << endl;
+	
 	cout << (~0) << endl;
-
 
 	return 0;
 }
